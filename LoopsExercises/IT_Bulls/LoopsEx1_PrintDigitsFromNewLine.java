@@ -1,7 +1,7 @@
 package com.innovator.learnit.javacore.primitives.Loops.LoopsEXs;
 
 import java.util.Scanner;
-public class LoopsEx1 {
+public class LoopsEx1_PrintDigitsFromNewLine {
 
 	public static void main(String[] args) {
 		Scanner in  = new Scanner(System.in);
