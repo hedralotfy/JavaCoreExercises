@@ -2,7 +2,7 @@ package com.innovator.learnit.javacore.primitives.Loops.LoopsEXs;
 
 import java.util.Scanner;
 
-public class LoopsEx2 {
+public class LoopsEx2_PyramidsInJava {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
