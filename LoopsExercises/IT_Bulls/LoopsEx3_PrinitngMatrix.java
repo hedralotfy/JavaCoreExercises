@@ -1,6 +1,6 @@
 package com.innovator.learnit.javacore.primitives.Loops.LoopsEXs;
 
-public class LoopsEx3 {
+public class LoopsEx3_PrinitngMatrix {
 
 	public static void main(String[] args) {
 		int[][] matric = {
